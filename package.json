@@ -1,0 +1,13 @@
+{
+  "name": "mocha_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Evan Kimlinger",
+  "license": "ISC"
+}
